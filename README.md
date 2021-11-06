@@ -9,9 +9,9 @@ There are four rarity levels for this project: basic, bronze, gold, and diamond.
 
 Project started on November 1, 2021. This project is using Polygon/MATIC blockchain, which has no gas fee and is only available on opensea.io
 
-Website: https://sportcarbits.com/
-Twitter: https://twitter.com/sportcarbits
-opeansea: https://opensea.io/sportcarbits
+- Website: https://sportcarbits.com/
+- Twitter: https://twitter.com/sportcarbits
+- opeansea: https://opensea.io/sportcarbits
 
 ### Web preview
 ![sportcarbits preview](./readme_assets/web-preview.png)
